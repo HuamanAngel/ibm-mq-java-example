@@ -1,4 +1,4 @@
-package FormTICKET;
+package TICKET;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;

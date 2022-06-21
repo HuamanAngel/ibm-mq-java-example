@@ -1,4 +1,4 @@
-package paquete;
+package CONSUMER;
 
 import javax.jms.Destination;
 import javax.jms.JMSConsumer;
